@@ -35,3 +35,5 @@
 #### Con el comando `git merge master` podemos unir la rama master con la rama segunda-rama.
 
 #### Si queremos volver a un commit en particular, podemos hacer un `git checkout id-commit `
+
+#### cambios en la rama segunda-rama.
